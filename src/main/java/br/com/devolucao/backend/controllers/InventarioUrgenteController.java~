@@ -1,0 +1,4 @@
+package br.com.devolucao.backend.controllers;
+
+public class InventarioUrgenteController {
+}

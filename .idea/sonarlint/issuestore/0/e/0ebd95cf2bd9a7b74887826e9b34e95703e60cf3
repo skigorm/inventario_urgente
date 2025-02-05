@@ -1,0 +1,17 @@
+
+X
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ
+A
+java:S1452:"&Remove usage of generic wildcard type.(ûöûƒıÿÿÿÿ
+<
+java:S1452M"&Remove usage of generic wildcard type.(…¼ø½
+A
+java:S1452o"&Remove usage of generic wildcard type.(–ı‚ãøÿÿÿÿ
+p
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ùôƒà8“ÂÊ¨ª2
+D
+java:S1452‰"&Remove usage of generic wildcard type.(Ùôƒà8¿Šæ¤ª2
