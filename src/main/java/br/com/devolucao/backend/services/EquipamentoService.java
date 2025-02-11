@@ -58,5 +58,10 @@ public class EquipamentoService {
         return writer.toString();
     }
 
+    public List<InventarioUrgente> obterContagem() {
+        log.info("Obtendo contagem de inventário urgente.");
+        return inventarioUrgenteRepository.findAll();
+    }
+
 }
 
