@@ -53,7 +53,10 @@ public class EquipamentoService {
             writer.append(inventario.getId().toString()).append(';')
                     .append(inventario.getCodigoSap()).append(';')
                     .append(inventario.getSerial()).append(';')
-                    .append(inventario.getUsuario().getId().toString()).append('\n');
+                    .append("ID: ").append(inventario.getUsuario().getId().toString()).append(", ")
+                    .append("NOME: ").append(inventario.getUsuario().getNome()).append(", ")
+                    .append("LOCAL: ").append(inventario.getUsuario().getLocal()).append(", ")
+                    .append("EMAIL: ").append(inventario.getUsuario().getEmail()).append('\n');
         }
         return writer.toString();
     }
